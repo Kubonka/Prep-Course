@@ -1,0 +1,4 @@
+* Arrays
+Los arrays son variables que almacenan una coleccion de datos.
+Tiene la ventaja que se puede acceder a cada uno de dichos datos de forma individual utilizando un indice.
+Se utilizan cuando existe alguna relacion entre los datos ya sea una relacion de orden, o de tipo de dato, o de contenido especifico y se cargan en un array para tener un acceso y lectura mas simple.

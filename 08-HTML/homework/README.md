@@ -8,7 +8,7 @@ Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` d
 ```
 I. Cree una página HTML básica.
   A. Cree el diseño básico para una página HTML usando html, head y body.
-  B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
+B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
       * un elemento h1 que contiene [Tu nombre].

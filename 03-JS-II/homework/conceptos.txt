@@ -1,0 +1,13 @@
+* `for`
+El "for" es una palabra reservada que se utiliza para repetir un conjunto de instrucciones un determinada cantidad de veces depenendiendo
+de que una condicion se cumpla.
+La estructura del "for" tiene 3 partes fundamentales. Una es la creacion de un estado inicial de una variable. 
+Otra es la condicion que se tiene que cumplir para que se repita ese conjunto de instrucciones, en dicha condicion se utiliza la variable inicial y se la compara con otro valor.
+Y la ultima parte es un incremento o decremento en una cierta cantidad de la variable inicial.
+
+* `&&`, `||`, `!`
+El "&&" describe al operador logico Y o AND se usa para determinar un valor de verdad de 2 expresiones, el cual solo puede ser verdadero si ambas expresiones son verdaderas.
+El "||" describe al operador logico O o OR se usa para determinar un valor de verdad de 2 expresiones, el cual solo puede ser verdadero si alguna de las expresiones es verdadera.
+El "!" se lo conoce como negacion logica y usa para invertir el valor de verdad de una expresion booleana.
+
+

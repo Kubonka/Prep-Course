@@ -1,0 +1,20 @@
+* Variables
+Una variable es un un espacio destinado de la memoria que guarda un tipo de dato (boolean,string,integer,etc) 
+y tiene la particularidad de que puede ser modificable.
+
+* Strings
+Un string es un tipo de dato que almacena una cadena de caracteres en forma de texto.
+
+* Funciones (argumentos, `return`)
+Una funcion es una subtarea que se usa para dividir la complejidad de un problema.
+Las funciones se encargan de hacer tareas concretas y en muchos casos devuelven un valor como resultado que es clave 
+para resolver aspectos mas amplios del programa.
+
+* Declaraciones `if`
+Una declaracion if es una palabra clave que se usa para evaluar una condicion de verdad de una expresion.
+En caso de que dicha condicion sea verdadera el programa va por un camino y si es falso va por otro.
+
+* Valores booleanos (`true`, `false`)
+Un valor booleano es un tipo de dato que almacena dos posibles estados logicos. Un estado es el TRUE y el otro es el FALSE.
+
+
