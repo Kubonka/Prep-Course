@@ -1,0 +1,16 @@
+Objetos
+Un objeto es una coleccion de datos con una relacion entre ellos.
+
+Propiedades
+Una propiedad en un objeto som los datos que se guardan en dicho objeto.
+
+Métodos
+Un metodo en un objeto le da funcionalidad a dicho objeto.
+
+Bucle `for…in`
+Un bucle for...in itera sobre todas las propiedades de un objeto.
+
+Notación de puntos vs notación de corchetes
+Son dos formas diferentes de acceder a una misma propiedad o metodo.
+Con notacion de punto se accede escribiendo el nombre del objeto seguido de un punto y su propiedad o metodo.
+Con notacion de corchetes se accede escribiendo el nombre del objeto seguide de corchetes y dentro de los corchetes el string que equivale al nombre de dicha propiedad o metodo.

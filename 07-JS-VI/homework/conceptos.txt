@@ -1,0 +1,2 @@
+Funciones Callback
+Una funcion callback es una funcion pasada como argumento a otra funcion y que puede ser ejecutada en esa otra funcion.

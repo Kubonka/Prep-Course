@@ -1,0 +1,6 @@
+`prototype`
+Todos los objetos tienen un una propiedad prototipo asociado (que es un objeto tambien) y dicho prototipo actua como un delegado de responsabilidades.
+Y a travez de dicho prototipo se conectan 2 objetos y se genera una relacion de herencia entre ellos. 
+
+ _Constructors_ (de Clases)
+Es un metodo especial qeu se usa para crear e inicializar propiedades en una clase.
